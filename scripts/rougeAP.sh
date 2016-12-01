@@ -4,7 +4,7 @@
 
 LOGS_PATH="/home/ashutosh/fdp/fakewifilogs/$(date '+%Y-%m-%d_%H-%M')"
 
-OUTPUT_INTERFACE="eth1"
+OUTPUT_INTERFACE="eth0"
 ROGUE_AP_INTERFACE="wlan1"
 ROGUE_AP_CHANNEL=6
 ROGUE_AP_SSID="OpenWifi"
